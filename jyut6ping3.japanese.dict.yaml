@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Jyut6ping3 - 粵拼詞庫
+# 日語拓展
+#
+# 碼表製作與校對人員
+# Koromimin Noroki <kokoromimin@gmail.com>
+
+---
+name: jyut6ping3.japanese
+version: "2021.8.1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 日語漢字
+喰	sik6
+糸	si1
+働	dung6
