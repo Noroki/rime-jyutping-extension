@@ -8,7 +8,7 @@
 # Kokoromimi Noroki <kokoromimin@gmail.com>
 
 ---
-name: jyut6ping3.jav
+name: jyut6ping3.japanese_name
 version: "2021.8.1"
 sort: by_weight
 use_preset_vocabulary: true
@@ -3762,6 +3762,92 @@ use_preset_vocabulary: true
 渦卷
 漩渦
 
+# ACG related 姓氏（英文）
+Łukasiewicz
+Ackerman
+Adnan
+Alfroskaya
+Alstom
+Anaberal
+Argento
+Arkwright
+Avadonia
+Bannings
+Beillschmidt
+Black
+Blackmore
+Blankenheim
+Bonnefoy
+Braginskaya
+Braginsky
+Britannia
+Carriedo
+D'Autriche
+Daimle
+Diamond
+Drake
+Dumbledore
+Edelfelt
+Edelstein
+Edison
+Einzbern
+Eneko
+Farron
+Freezis
+Futapie
+Galante
+Graham
+Héderváry
+Hartmann
+Hassan
+Heide
+Holmes
+Jones
+Justina
+Karpusi
+Kirkland
+Laurinaitis
+Lee
+Lovegood
+Lupin
+Malfoy
+Mao
+Margatroid
+Marlon
+Mathers
+Meggendorfer
+Might
+Moonlit
+Ninomiya
+二宮
+二之宮
+Orion
+Oxenstierna
+Potter
+Russell
+Scarlet
+Seeker
+Siemens
+Sudou
+Taylor
+Tesla
+Testarossa
+Thomas
+Vainaminen
+Valentine
+Vargas
+Venom
+Venomania
+Verde
+Von Bock
+Walker
+Watson
+Weasley
+West
+White
+Williams
+Zvezda
+Zwingli
 
 
 
@@ -5318,7 +5404,7 @@ Tia	ti aa
 碧木凜
 Melody Hina Marx	me lo di
 
-# jav wiki
+# jav wikipedia
 淺倉彩音
 爱斗优希
 麻田有希
